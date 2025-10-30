@@ -3,6 +3,8 @@ Block Inspection Results
 Block Height: 921,388
 Block hash : 0000000000000000000183d7717a62426718729ffe66b6e984745da98aec90f7
 Previous Block Hash: 0000000000000000000021198e6d8990fcd9fea121eb02e137a993c3c8c0e769718
-Merkle Root: c75ceb477b23779d9ea57e98643fa45cc1fd107a175f86f50dc753637a1b8611
+Merkle Root: 419425da1b49882c62aea8e9f1a2e15e3d520d8fd40ff653dd0fb839f4c304ba
 Number of Transactions: 5,132 
-Timestamp: 2025‑10‑30 00:52:19 UTC
+Timestamp: 2025-10-30 03:50:55 GMT +3
+
+
