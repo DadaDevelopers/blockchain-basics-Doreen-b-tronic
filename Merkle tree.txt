@@ -1,0 +1,20 @@
+                                                                                 Merkle Root
+                                                       1492897aa392cd44ce83cf05be5486802b6b567109864a225b5373d7f36401a7
+                                                                                      |
+                                       +----------------------------------------------+----------------------------------------------+
+                                       |                                                                                             |
+                                     Hash(AB)                                                                                     Hash(CD)
+          c15eecbf3a43484e8e8f8c637b37f7204a39c9a94b569058de945b38c0a67a09                         8e601b0b0cc03f5eac15e5b50b8cfa320c82ef068cb0fa5b38f8a5906d87b176
+                                       |                                                                                              |
+                +----------------------+-------------------------+                                            +-----------------------+---------------------------+
+                |                                                |                                            |                                                   |
+               TxA                                              TxB                                          TxC                                                 TxD
+75dd9121f42c14e4ce80e6bcb595519b                53d3260bab208080c43de4b5b12f0a4b           90ffb5696bcaab70eee7fc53f3e8ed23                        ba6673df7938b93da81579eb6e0412a9
+493e370eafc1c7f2ab7337e483d153ea                fe9f72ce5425fac985ae154659bb8bd9           972adfadaad1b291c1bbf78bd253798c                        120b64fe6861421d4775a22be7eb9f0
+
+
+Note 
+TxA ----> 75dd9121f42c14e4ce80e6bcb595519b493e370eafc1c7f2ab7337e483d153ea
+TxB ----> 53d3260bab208080c43de4b5b12f0a4bfe9f72ce5425fac985ae154659bb8bd9
+TxC ----> 90ffb5696bcaab70eee7fc53f3e8ed23972adfadaad1b291c1bbf78bd253798c
+TxD ----> ba6673df7938b93da81579eb6e0412a9120b64fe6861421d4775a22be7eb9f08
